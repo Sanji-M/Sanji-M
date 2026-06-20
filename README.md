@@ -2,7 +2,7 @@
 
 As a self-taught developer, I have a strong interest in open-source software, programming, and creating useful projects. I like to solve problems, learn new technologies, and keep developing my abilities.
 
-My current areas of interest are artificial intelligence, web technologies, and Python development.
+My current areas of interest are  Python development,artificial intelligence and web technologies.
 
 ---
 
