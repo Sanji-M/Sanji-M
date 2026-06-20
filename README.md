@@ -47,7 +47,6 @@ My current areas of interest are artificial intelligence, web technologies, and 
 
 ## 🎮 Interests
 
-- One Piece
 - Jujutsu Kaisen
 - Gaming
 - Artificial Intelligence
