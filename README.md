@@ -1,19 +1,15 @@
-# Hi there 👋, I'm Sanja Moses
+#Hello there 👋  I'm Sanja Moses ### 💻 Python Programmer | Future Full-Stack Developer |
 
-### 💻 Python Developer | Aspiring Full-Stack Developer | AI Enthusiast
+As a self-taught developer, I have a strong interest in open-source software, programming, and creating useful projects. I like to solve problems, learn new technologies, and keep developing my abilities.
 
-I'm a self-taught developer passionate about programming, open-source software, and building practical projects. I enjoy learning new technologies, solving problems, and continuously improving my skills.
-
-Currently, I'm focused on Python development, web technologies, Linux, and artificial intelligence.
+My current areas of interest are artificial intelligence, Linux, web technologies, and Python development.
 
 ---
 
 ## 🚀 About Me
 
 - 🐍 Python Developer
-- 🌐 Learning full-stack web development with Django and JavaScript
-- 🐧 Linux enthusiast
-- 🤖 Interested in Artificial Intelligence and local AI models
+- 🌐 Learning Web development with Python and js
 - 🇩🇪 Currently learning German
 - 📚 Always learning and improving my programming skills
 
@@ -68,11 +64,3 @@ Learning something new every day.
 ```
 
 ---
-
-## ⚡ Fun Fact
-
-> "The expert in anything was once a beginner."
-
----
-
-Thanks for visiting my profile! Feel free to explore my repositories and follow my development journey. 🚀
