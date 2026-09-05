@@ -1,4 +1,4 @@
-#Hello there   I'm Sanja Moses ### 💻 Python Programmer | Future Full-Stack Developer |
+#Hello there   I'm Sanja Moses ### 💻 Python Programmer and web dev enthusiast 
 
 As a self-taught developer, I have a strong interest in open-source software, programming, and creating useful projects. I like to solve problems, learn new technologies, and keep developing my abilities.
 
